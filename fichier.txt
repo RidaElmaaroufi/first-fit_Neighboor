@@ -1,0 +1,400 @@
+Pour 10 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 20 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 30 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 40 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 50 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 60 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 70 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 80 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 90 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 100 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 110 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 120 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 130 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 140 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 150 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 160 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 170 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 180 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 190 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 200 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 210 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 220 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 230 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 240 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 250 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 260 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 270 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 280 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 290 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 300 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 310 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 320 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 330 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 340 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 350 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 360 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 370 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 380 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 390 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 400 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 410 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 420 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 430 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 440 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 450 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 460 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 470 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 480 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 490 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 500 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 510 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 520 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 530 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 540 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 550 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 560 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 570 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 580 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 590 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 600 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 610 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 620 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 630 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 640 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 650 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 660 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 670 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 680 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 690 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 700 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 710 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 720 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 730 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 740 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 750 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 760 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 770 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 780 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 790 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 800 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 810 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 820 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 830 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 840 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 850 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 860 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 870 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 880 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 890 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 900 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 910 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 920 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 930 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 940 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 950 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 960 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 970 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 980 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 990 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
+Pour 1000 iterations on a :
+la meilleur solution local est : 255
+qui correspond a f(255) = 12909475
+
